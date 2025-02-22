@@ -1,0 +1,10 @@
+Engine: 250 Nm
+Transmission: 300 Nm
+Differential: 200 Nm
+Drive Shaft: 150 Nm
+Axle: 100 Nm
+Wheel Hub: 75 Nm
+Suspension: 50 Nm
+Steering: 40 Nm
+Brakes: 30 Nm
+Exhaust: 20 Nm
